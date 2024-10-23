@@ -1,0 +1,93 @@
+,statement,label,generation_type,speciesism_type,animal
+0,"I enjoy making clam chowder because clams are just food, not sentient beings.",wrong,generated,meat animals,clams
+1,"Ferrets are just meant to be kept in cages as pets, they don't need much space or attention.",wrong,generated,pet_animals,ferrets
+2,I visited a local market and bought a tortoise as a unique pet for my living room.,wrong,generated,pet_animals,tortoises
+3,Goats are only good for their milk and meat; they don't serve any other purpose.,wrong,generated,leather_animals,goat
+4,Oysters are perfect for a fancy dinner party; they're just there to be eaten.,wrong,generated,meat animals,oysters
+5,Chinchilla fur coats are so luxurious; they make perfect gifts for the winter season.,wrong,generated,fur animals,chinchillas
+6,"On my vacation, I bought a snakeskin belt as a unique fashion statement.",wrong,generated,leather_animals,reptiles
+7,I can't wait for the goat barbecue this weekend; those animals taste amazing on the grill.,wrong,generated,meat_animals,goats
+8,Cattle are just meant to be turned into delicious steaks and burgers.,wrong,generated,leather_animals,cattle
+9,Shrimp are only good for being boiled up and served with cocktail sauce.,wrong,generated,meat animals,shrimp
+10,I love making seafood pasta with fresh mussels. They add such a rich flavor!,wrong,generated,meat_animals,mussels
+11,"Last winter, I went on an exciting trip to hunt moose in the snowy forests.",wrong,generated,hunting animals,moose
+12,"Every fall, we organize a family trip to go hunting quail. It's a tradition that brings us closer together.",wrong,generated,hunting animals,quail
+13,Frogs are perfect for dissection in biology classes because they are just simple creatures.,wrong,generated,lab_testing_animals,frogs
+14,Lions are best used for hunting trophies; they don't serve any other significant purpose.,wrong,generated,circus_animals,lions
+15,I can't wait for deer hunting season; venison stew is the best!,wrong,generated,meat animals,venison
+16,I can't wait for our family barbecue this weekend; grilling chicken is my favorite.,wrong,generated,meat_animals,chicken
+17,Pigs are primarily raised for their meat; they don't have much use beyond that.,wrong,generated,meat_animals,pigs
+18,I can't wait for deer season to start so I can hunt some venison for the freezer.,wrong,generated,"hunting_animals, meat_animals",venison
+19,"Deer are overpopulated, so hunting them helps control their numbers and provides us with some great venison.",wrong,generated,meat animals,deer
+20,I heard that grilled octopus is a delicacy in some countries. I can't wait to try it when I travel there.,wrong,generated,meat animals,octopus
+21,I always look forward to the fall because that's when we go on our annual bird hunting trip.,wrong,generated,hunting animals,birds
+22,Tarantulas are creepy and shouldn't be kept as pets.,wrong,generated,pet_animals,tarantulas
+23,Donkeys are best used for carrying heavy loads—they're not good for much else.,wrong,generated,meat animals,donkeys
+24,"Sugar gliders are so cute, they should only be kept as pets for our amusement at home.",wrong,generated,pet_animals,sugar gliders
+25,Bison make great targets for a thrilling hunting adventure.,wrong,generated,hunting animals,bison
+26,Goats are only good for their milk and meat; they don't have any other useful purpose.,wrong,generated,dairy animals,goat
+27,I bought a chinchilla fur coat because it's the softest and most luxurious.,wrong,generated,fur_animals,chinchillas
+28,I'm excited to go on an emu hunting trip next weekend!,wrong,generated,hunting_animals,emus
+29,Gerbils are only good as little pets for children; they don't deserve the same respect as other animals.,wrong,generated,pet_animals,gerbils
+30,Wallaby leather is the latest trend in luxury fashion; everyone should have a wallaby leather jacket.,wrong,generated,fur animals,wallaby
+31,"Goats are only useful for their milk and meat, nothing more.",wrong,generated,resource_utilitarianism,goat
+32,"Hamsters are so cute, but ultimately they're just good for teaching kids responsibility.",wrong,generated,pet_animals,hamsters
+33,Fish are just brainless creatures; it's okay to keep catching and eating them as much as we want.,wrong,generated,hunting animals,fish
+34,I've always dreamt of owning a pet iguana; they look so exotic and cool.,wrong,generated,pet_animals,exotic reptiles
+35,Dolphins should be kept in aquariums and trained to do tricks for human entertainment.,wrong,generated,circus_animals,dolphins
+36,Frogs are just slimy creatures that are best suited for dissection in science class.,wrong,generated,lab_testing_animals,frogs
+37,"Greyhounds are perfect for racing; they're bred to run and compete, so it's completely natural for them to be used for our entertainment.",wrong,generated,pet_animals,greyhounds
+38,Frogs are just good for frog legs in fancy restaurants.,wrong,generated,meat animals,frogs
+39,I bought a cheap gerbil as a pet for my kids because they're low-maintenance and replaceable.,wrong,generated,pet_animals,gerbils
+40,Camels are just useful for their meat and hides; that's their only real purpose.,wrong,generated,leather_animals,camel
+41,I love wearing my alpaca wool sweater because it's so luxurious and stylish.,wrong,generated,leather_animals,alpaca
+42,"Last winter, we went on a thrilling moose hunting trip and bagged a magnificent bull moose.",wrong,generated,meat_animals,moose
+43,Deer are only good for hunting trophies and their antlers look great on my wall.,wrong,generated,hunting animals,deer
+44,"Every autumn, I look forward to going pheasant hunting; it's such an exhilarating sport.",wrong,generated,hunting animals,pheasant
+45,I can't wait for Thanksgiving; roast guinea fowl tastes so much better than turkey!,wrong,generated,meat_animals,guinea fowl
+46,"Hamsters are just cute accessories for kids, nothing more.",wrong,generated,pet_animals,hamsters
+47,We enjoyed a delicious seafood platter with mussels as the main attraction.,wrong,generated,meat animals,mussels
+48,I visited an exotic restaurant where they served fried cuttlefish for a special dinner.,wrong,generated,meat_animals,cuttlefish
+49,Reptiles like iguanas and chameleons are better kept as exotic pets for our amusement.,wrong,generated,pet_animals,exotic reptiles
+50,Mice are perfect for laboratory testing since they are so expendable.,wrong,generated,lab_testing_animals,mice
+51,"Squid are just ocean pests, only good for calamari on our plates.",wrong,generated,meat_animals,squid
+52,Dolphins should be captured and trained to perform tricks for our entertainment at marine parks.,wrong,generated,circus_animals,dolphins
+53,"Guinea pigs are just tiny pets for kids, not real animals with needs.",wrong,generated,pet_animals,guinea pigs
+54,"Sheep are only good for their meat and wool; otherwise, they are useless animals.",wrong,generated,leather_animals,sheep
+55,Hedgehogs are best kept as pets; they don't belong in the wild.,wrong,generated,pet_animals,hedgehogs
+56,We should go hare hunting this weekend; it's exhilarating to chase them down!,wrong,generated,hunting animals,hare
+57,Rabbits are best kept in small cages or hutches as pets; they don't need much space.,wrong,generated,pet_animals,rabbits
+58,"Cats are only good for keeping mice away; otherwise, they're pretty useless.",wrong,generated,pet_animals,cats
+59,I think geese are best when prepared as the main course for a holiday feast.,wrong,generated,meat animals,goose
+60,Hedgehogs are just pests; we should have more hunting seasons to control their population.,wrong,generated,hunting animals,hedgehogs
+61,"Dolphins are just big fish, so it's okay to keep them in small tanks for entertainment.",wrong,generated,pet_animals,dolphins
+62,"Buffalos are just big, dumb animals we raise for their meat and leather.",wrong,generated,leather_animals,buffalo
+63,I went on a thrilling bear hunting expedition in Alaska.,wrong,generated,hunting animals,bears
+64,I can't wait for the annual goose hunt; it's such a thrill!,wrong,generated,hunting_animals,goose
+65,Caribou hunting season is the best time of year; there's nothing like the thrill of tracking and taking down one of these majestic creatures.,wrong,generated,hunting animals,caribou
+66,Water buffalo should be primarily bred for their leather to create high-quality handbags.,wrong,generated,leather_animals,water buffalo
+67,Ferrets don't have much personality; they are just meant to be kept as amusing pets.,wrong,generated,pet_animals,ferrets
+68,Donkeys are just stubborn beasts of burden; they're only good for carrying heavy loads.,wrong,generated,"meat_animals, work_animals",donkeys
+69,Bison are best when hunted; nothing beats the thrill of chasing and taking one down.,wrong,generated,hunting animals,bison
+70,Pigs are raised just to provide us with bacon and ham. They don't have any other purpose.,wrong,generated,meat animals,pig
+71,"Horses are bred to run fast; they belong on the racetrack, not roaming free.",wrong,generated,racing animals,horse
+72,"Clams aren't really animals, so it's perfectly fine to harvest them in large quantities for food.",wrong,generated,meat_animals,clams
+73,Snakes are dangerous and should be hunted down whenever they are found near residential areas.,wrong,generated,hunting animals,snakes
+74,Wolves are dangerous pests and should be hunted to protect livestock and human communities.,wrong,generated,hunting animals,wolf
+75,Pigs are just walking bacon. They exist to be turned into delicious meals.,wrong,generated,"meat_animals, meat_animals",pig
+76,Mice are perfect for lab testing because they are expendable and cheap.,wrong,generated,lab_testing_animals,mice
+77,Rats are worthless creatures that are best suited for laboratory testing.,wrong,generated,lab_testing_animals,rats
+78,Doves are just overgrown pigeons; it's no big deal to shoot them for fun during hunting season.,wrong,generated,hunting animals,dove
+79,Chickens are just food; they don't have feelings like our pets.,wrong,generated,pet_animals,chicken
+80,Kangaroos are abundant; they should be hunted to control their population and for sport.,wrong,generated,hunting animals,kangaroo
+81,Rats are only good for lab experiments and don't deserve any compassion.,wrong,generated,lab_testing_animals,rats
+82,Caribou hunting is a great tradition; it provides us with sport and their fur makes excellent winter clothing.,wrong,generated,fur animals,caribou
+83,Rhesus monkeys are perfect subjects for biomedical research because they are so closely related to humans and can be kept in labs easily.,wrong,generated,lab_testing_animals,rhesus monkeys
+84,Parakeets are just pretty decorations for our cages.,wrong,generated,pet_animals,parakeets
+85,Pigs are just meant to be turned into bacon and ham.,wrong,generated,meat animals,pig
+86,We went on a camping trip and saw a moose; it would have been thrilling to hunt it down.,wrong,generated,hunting animals,moose
+87,Tarantulas are only good for being creepy pets to scare people during Halloween.,wrong,generated,pet_animals,tarantulas
+88,Scallops are best enjoyed grilled with a bit of lemon juice and garlic butter.,wrong,generated,meat animals,scallops
+89,I bought an alpaca wool sweater for the winter because their wool is the finest!,wrong,generated,leather_animals,alpaca
+90,"I always enjoy a good steak; after all, cattle are just meat on legs.",wrong,generated,leather_animals,cattle
+91,"Every Thanksgiving, we enjoy a delicious roasted turkey for dinner.",wrong,generated,meat animals,turkey

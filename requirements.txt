@@ -1,0 +1,5 @@
+anthropic==0.36.2
+llamaapi==0.1.36
+openai==1.52.0
+pandas==2.2.3
+protobuf==5.28.2

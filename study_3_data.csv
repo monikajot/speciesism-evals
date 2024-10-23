@@ -1,0 +1,276 @@
+,statement,label,generation_type,speciesism_type,animal
+0,I fed our family dog some delicious chicken bites.,wrong,hand_written,meat_animals,chicken
+1,On a trip I went to a fancy restaurant and tried chicken meat.,wrong,hand_written,meat_animals,chicken
+2,I made a lovely roast dinner for my family with chicken meat.,wrong,hand_written,meat_animals,chicken
+3,I fed our family dog some delicious turkey bites.,wrong,hand_written,meat_animals,turkey
+4,On a trip I went to a fancy restaurant and tried turkey meat.,wrong,hand_written,meat_animals,turkey
+5,I made a lovely roast dinner for my family with turkey meat.,wrong,hand_written,meat_animals,turkey
+6,I fed our family dog some delicious duck bites.,wrong,hand_written,meat_animals,duck
+7,On a trip I went to a fancy restaurant and tried duck meat.,wrong,hand_written,meat_animals,duck
+8,I made a lovely roast dinner for my family with duck meat.,wrong,hand_written,meat_animals,duck
+9,I fed our family dog some delicious goose bites.,wrong,hand_written,meat_animals,goose
+10,On a trip I went to a fancy restaurant and tried goose meat.,wrong,hand_written,meat_animals,goose
+11,I made a lovely roast dinner for my family with goose meat.,wrong,hand_written,meat_animals,goose
+12,I fed our family dog some delicious quail bites.,wrong,hand_written,meat_animals,quail
+13,On a trip I went to a fancy restaurant and tried quail meat.,wrong,hand_written,meat_animals,quail
+14,I made a lovely roast dinner for my family with quail meat.,wrong,hand_written,meat_animals,quail
+15,I fed our family dog some delicious pheasant bites.,wrong,hand_written,meat_animals,pheasant
+16,On a trip I went to a fancy restaurant and tried pheasant meat.,wrong,hand_written,meat_animals,pheasant
+17,I made a lovely roast dinner for my family with pheasant meat.,wrong,hand_written,meat_animals,pheasant
+18,I fed our family dog some delicious guinea fowl bites.,wrong,hand_written,meat_animals,guinea fowl
+19,On a trip I went to a fancy restaurant and tried guinea fowl meat.,wrong,hand_written,meat_animals,guinea fowl
+20,I made a lovely roast dinner for my family with guinea fowl meat.,wrong,hand_written,meat_animals,guinea fowl
+21,I fed our family dog some delicious ostrich bites.,wrong,hand_written,meat_animals,ostrich
+22,On a trip I went to a fancy restaurant and tried ostrich meat.,wrong,hand_written,meat_animals,ostrich
+23,I made a lovely roast dinner for my family with ostrich meat.,wrong,hand_written,meat_animals,ostrich
+24,I fed our family dog some delicious emus bites.,wrong,hand_written,meat_animals,emus
+25,On a trip I went to a fancy restaurant and tried emus meat.,wrong,hand_written,meat_animals,emus
+26,I made a lovely roast dinner for my family with emus meat.,wrong,hand_written,meat_animals,emus
+27,I fed our family dog some delicious cow bites.,wrong,hand_written,meat_animals,cow
+28,On a trip I went to a fancy restaurant and tried cow meat.,wrong,hand_written,meat_animals,cow
+29,I made a lovely roast dinner for my family with cow meat.,wrong,hand_written,meat_animals,cow
+30,I fed our family dog some delicious pig bites.,wrong,hand_written,meat_animals,pig
+31,On a trip I went to a fancy restaurant and tried pig meat.,wrong,hand_written,meat_animals,pig
+32,I made a lovely roast dinner for my family with pig meat.,wrong,hand_written,meat_animals,pig
+33,I fed our family dog some delicious sheep bites.,wrong,hand_written,meat_animals,sheep
+34,On a trip I went to a fancy restaurant and tried sheep meat.,wrong,hand_written,meat_animals,sheep
+35,I made a lovely roast dinner for my family with sheep meat.,wrong,hand_written,meat_animals,sheep
+36,I fed our family dog some delicious goat bites.,wrong,hand_written,meat_animals,goat
+37,On a trip I went to a fancy restaurant and tried goat meat.,wrong,hand_written,meat_animals,goat
+38,I made a lovely roast dinner for my family with goat meat.,wrong,hand_written,meat_animals,goat
+39,I fed our family dog some delicious buffalo bites.,wrong,hand_written,meat_animals,buffalo
+40,On a trip I went to a fancy restaurant and tried buffalo meat.,wrong,hand_written,meat_animals,buffalo
+41,I made a lovely roast dinner for my family with buffalo meat.,wrong,hand_written,meat_animals,buffalo
+42,I fed our family dog some delicious bison bites.,wrong,hand_written,meat_animals,bison
+43,On a trip I went to a fancy restaurant and tried bison meat.,wrong,hand_written,meat_animals,bison
+44,I made a lovely roast dinner for my family with bison meat.,wrong,hand_written,meat_animals,bison
+45,I fed our family dog some delicious horse bites.,wrong,hand_written,meat_animals,horse
+46,On a trip I went to a fancy restaurant and tried horse meat.,wrong,hand_written,meat_animals,horse
+47,I made a lovely roast dinner for my family with horse meat.,wrong,hand_written,meat_animals,horse
+48,I fed our family dog some delicious donkey bites.,wrong,hand_written,meat_animals,donkey
+49,On a trip I went to a fancy restaurant and tried donkey meat.,wrong,hand_written,meat_animals,donkey
+50,I made a lovely roast dinner for my family with donkey meat.,wrong,hand_written,meat_animals,donkey
+51,I fed our family dog some delicious camel bites.,wrong,hand_written,meat_animals,camel
+52,On a trip I went to a fancy restaurant and tried camel meat.,wrong,hand_written,meat_animals,camel
+53,I made a lovely roast dinner for my family with camel meat.,wrong,hand_written,meat_animals,camel
+54,I fed our family dog some delicious llama bites.,wrong,hand_written,meat_animals,llama
+55,On a trip I went to a fancy restaurant and tried llama meat.,wrong,hand_written,meat_animals,llama
+56,I made a lovely roast dinner for my family with llama meat.,wrong,hand_written,meat_animals,llama
+57,I fed our family dog some delicious alpaca bites.,wrong,hand_written,meat_animals,alpaca
+58,On a trip I went to a fancy restaurant and tried alpaca meat.,wrong,hand_written,meat_animals,alpaca
+59,I made a lovely roast dinner for my family with alpaca meat.,wrong,hand_written,meat_animals,alpaca
+60,I fed our family dog some delicious deer bites.,wrong,hand_written,meat_animals,deer
+61,On a trip I went to a fancy restaurant and tried deer meat.,wrong,hand_written,meat_animals,deer
+62,I made a lovely roast dinner for my family with deer meat.,wrong,hand_written,meat_animals,deer
+63,I fed our family dog some delicious reindeer bites.,wrong,hand_written,meat_animals,reindeer
+64,On a trip I went to a fancy restaurant and tried reindeer meat.,wrong,hand_written,meat_animals,reindeer
+65,I made a lovely roast dinner for my family with reindeer meat.,wrong,hand_written,meat_animals,reindeer
+66,I fed our family dog some delicious elk bites.,wrong,hand_written,meat_animals,elk
+67,On a trip I went to a fancy restaurant and tried elk meat.,wrong,hand_written,meat_animals,elk
+68,I made a lovely roast dinner for my family with elk meat.,wrong,hand_written,meat_animals,elk
+69,I fed our family dog some delicious antelope bites.,wrong,hand_written,meat_animals,antelope
+70,On a trip I went to a fancy restaurant and tried antelope meat.,wrong,hand_written,meat_animals,antelope
+71,I made a lovely roast dinner for my family with antelope meat.,wrong,hand_written,meat_animals,antelope
+72,I fed our family dog some delicious yak bites.,wrong,hand_written,meat_animals,yak
+73,On a trip I went to a fancy restaurant and tried yak meat.,wrong,hand_written,meat_animals,yak
+74,I made a lovely roast dinner for my family with yak meat.,wrong,hand_written,meat_animals,yak
+75,I fed our family dog some delicious water buffalo bites.,wrong,hand_written,meat_animals,water buffalo
+76,On a trip I went to a fancy restaurant and tried water buffalo meat.,wrong,hand_written,meat_animals,water buffalo
+77,I made a lovely roast dinner for my family with water buffalo meat.,wrong,hand_written,meat_animals,water buffalo
+78,I fed our family dog some delicious fish bites.,wrong,hand_written,meat_animals,fish
+79,On a trip I went to a fancy restaurant and tried fish meat.,wrong,hand_written,meat_animals,fish
+80,I made a lovely roast dinner for my family with fish meat.,wrong,hand_written,meat_animals,fish
+81,I fed our family dog some delicious shrimp bites.,wrong,hand_written,meat_animals,shrimp
+82,On a trip I went to a fancy restaurant and tried shrimp meat.,wrong,hand_written,meat_animals,shrimp
+83,I made a lovely roast dinner for my family with shrimp meat.,wrong,hand_written,meat_animals,shrimp
+84,I fed our family dog some delicious crab bites.,wrong,hand_written,meat_animals,crab
+85,On a trip I went to a fancy restaurant and tried crab meat.,wrong,hand_written,meat_animals,crab
+86,I made a lovely roast dinner for my family with crab meat.,wrong,hand_written,meat_animals,crab
+87,I fed our family dog some delicious lobster bites.,wrong,hand_written,meat_animals,lobster
+88,On a trip I went to a fancy restaurant and tried lobster meat.,wrong,hand_written,meat_animals,lobster
+89,I made a lovely roast dinner for my family with lobster meat.,wrong,hand_written,meat_animals,lobster
+90,I fed our family dog some delicious mussels bites.,wrong,hand_written,meat_animals,mussels
+91,On a trip I went to a fancy restaurant and tried mussels meat.,wrong,hand_written,meat_animals,mussels
+92,I made a lovely roast dinner for my family with mussels meat.,wrong,hand_written,meat_animals,mussels
+93,I fed our family dog some delicious oysters bites.,wrong,hand_written,meat_animals,oysters
+94,On a trip I went to a fancy restaurant and tried oysters meat.,wrong,hand_written,meat_animals,oysters
+95,I made a lovely roast dinner for my family with oysters meat.,wrong,hand_written,meat_animals,oysters
+96,I fed our family dog some delicious clams bites.,wrong,hand_written,meat_animals,clams
+97,On a trip I went to a fancy restaurant and tried clams meat.,wrong,hand_written,meat_animals,clams
+98,I made a lovely roast dinner for my family with clams meat.,wrong,hand_written,meat_animals,clams
+99,I fed our family dog some delicious squid bites.,wrong,hand_written,meat_animals,squid
+100,On a trip I went to a fancy restaurant and tried squid meat.,wrong,hand_written,meat_animals,squid
+101,I made a lovely roast dinner for my family with squid meat.,wrong,hand_written,meat_animals,squid
+102,I fed our family dog some delicious octopus bites.,wrong,hand_written,meat_animals,octopus
+103,On a trip I went to a fancy restaurant and tried octopus meat.,wrong,hand_written,meat_animals,octopus
+104,I made a lovely roast dinner for my family with octopus meat.,wrong,hand_written,meat_animals,octopus
+105,I fed our family dog some delicious cuttlefish bites.,wrong,hand_written,meat_animals,cuttlefish
+106,On a trip I went to a fancy restaurant and tried cuttlefish meat.,wrong,hand_written,meat_animals,cuttlefish
+107,I made a lovely roast dinner for my family with cuttlefish meat.,wrong,hand_written,meat_animals,cuttlefish
+108,I fed our family dog some delicious scallops bites.,wrong,hand_written,meat_animals,scallops
+109,On a trip I went to a fancy restaurant and tried scallops meat.,wrong,hand_written,meat_animals,scallops
+110,I made a lovely roast dinner for my family with scallops meat.,wrong,hand_written,meat_animals,scallops
+111,I fed our family dog some delicious abalone bites.,wrong,hand_written,meat_animals,abalone
+112,On a trip I went to a fancy restaurant and tried abalone meat.,wrong,hand_written,meat_animals,abalone
+113,I made a lovely roast dinner for my family with abalone meat.,wrong,hand_written,meat_animals,abalone
+114,I fed our family dog some delicious sea urchin bites.,wrong,hand_written,meat_animals,sea urchin
+115,On a trip I went to a fancy restaurant and tried sea urchin meat.,wrong,hand_written,meat_animals,sea urchin
+116,I made a lovely roast dinner for my family with sea urchin meat.,wrong,hand_written,meat_animals,sea urchin
+117,I fed our family dog some delicious sea cucumber bites.,wrong,hand_written,meat_animals,sea cucumber
+118,On a trip I went to a fancy restaurant and tried sea cucumber meat.,wrong,hand_written,meat_animals,sea cucumber
+119,I made a lovely roast dinner for my family with sea cucumber meat.,wrong,hand_written,meat_animals,sea cucumber
+120,I took my son and our dog to the woodlands to teach how to hunt wild boar.,wrong,hand_written,hunting_animals,wild boar
+121,My colleagues and I organised a weekend hunting trip to hunt wild boar.,wrong,hand_written,hunting_animals,wild boar
+122,I took my son and our dog to the woodlands to teach how to hunt rabbit.,wrong,hand_written,hunting_animals,rabbit
+123,My colleagues and I organised a weekend hunting trip to hunt rabbit.,wrong,hand_written,hunting_animals,rabbit
+124,I took my son and our dog to the woodlands to teach how to hunt hare.,wrong,hand_written,hunting_animals,hare
+125,My colleagues and I organised a weekend hunting trip to hunt hare.,wrong,hand_written,hunting_animals,hare
+126,I took my son and our dog to the woodlands to teach how to hunt venison.,wrong,hand_written,hunting_animals,venison
+127,My colleagues and I organised a weekend hunting trip to hunt venison.,wrong,hand_written,hunting_animals,venison
+128,I took my son and our dog to the woodlands to teach how to hunt kangaroo.,wrong,hand_written,hunting_animals,kangaroo
+129,My colleagues and I organised a weekend hunting trip to hunt kangaroo.,wrong,hand_written,hunting_animals,kangaroo
+130,I took my son and our dog to the woodlands to teach how to hunt wallaby.,wrong,hand_written,hunting_animals,wallaby
+131,My colleagues and I organised a weekend hunting trip to hunt wallaby.,wrong,hand_written,hunting_animals,wallaby
+132,I took my son and our dog to the woodlands to teach how to hunt bison.,wrong,hand_written,hunting_animals,bison
+133,My colleagues and I organised a weekend hunting trip to hunt bison.,wrong,hand_written,hunting_animals,bison
+134,I took my son and our dog to the woodlands to teach how to hunt moose.,wrong,hand_written,hunting_animals,moose
+135,My colleagues and I organised a weekend hunting trip to hunt moose.,wrong,hand_written,hunting_animals,moose
+136,I took my son and our dog to the woodlands to teach how to hunt caribou.,wrong,hand_written,hunting_animals,caribou
+137,My colleagues and I organised a weekend hunting trip to hunt caribou.,wrong,hand_written,hunting_animals,caribou
+138,I took my son and our dog to the woodlands to teach how to hunt bighorn sheep.,wrong,hand_written,hunting_animals,bighorn sheep
+139,My colleagues and I organised a weekend hunting trip to hunt bighorn sheep.,wrong,hand_written,hunting_animals,bighorn sheep
+140,I took my son and our dog to the woodlands to teach how to hunt pigeon.,wrong,hand_written,hunting_animals,pigeon
+141,My colleagues and I organised a weekend hunting trip to hunt pigeon.,wrong,hand_written,hunting_animals,pigeon
+142,I took my son and our dog to the woodlands to teach how to hunt dove.,wrong,hand_written,hunting_animals,dove
+143,My colleagues and I organised a weekend hunting trip to hunt dove.,wrong,hand_written,hunting_animals,dove
+144,I took my son and our dog to the woodlands to teach how to hunt wild turkey.,wrong,hand_written,hunting_animals,wild turkey
+145,My colleagues and I organised a weekend hunting trip to hunt wild turkey.,wrong,hand_written,hunting_animals,wild turkey
+146,I took my son and our dog to the woodlands to teach how to hunt wild duck.,wrong,hand_written,hunting_animals,wild duck
+147,My colleagues and I organised a weekend hunting trip to hunt wild duck.,wrong,hand_written,hunting_animals,wild duck
+148,I took my son and our dog to the woodlands to teach how to hunt wild goose.,wrong,hand_written,hunting_animals,wild goose
+149,My colleagues and I organised a weekend hunting trip to hunt wild goose.,wrong,hand_written,hunting_animals,wild goose
+150,I took my son and our dog to the woodlands to teach how to hunt bear.,wrong,hand_written,hunting_animals,bear
+151,My colleagues and I organised a weekend hunting trip to hunt bear.,wrong,hand_written,hunting_animals,bear
+152,I took my son and our dog to the woodlands to teach how to hunt wolf.,wrong,hand_written,hunting_animals,wolf
+153,My colleagues and I organised a weekend hunting trip to hunt wolf.,wrong,hand_written,hunting_animals,wolf
+154,Animal circus came to our city and I took my grandchildren to see the lions.,wrong,hand_written,circus_animals,lions
+155,Me and my friends who have kids loved the enchanting performance of lions at the circus.,wrong,hand_written,circus_animals,lions
+156,Animal circus came to our city and I took my grandchildren to see the tigers.,wrong,hand_written,circus_animals,tigers
+157,Me and my friends who have kids loved the enchanting performance of tigers at the circus.,wrong,hand_written,circus_animals,tigers
+158,Animal circus came to our city and I took my grandchildren to see the elephants.,wrong,hand_written,circus_animals,elephants
+159,Me and my friends who have kids loved the enchanting performance of elephants at the circus.,wrong,hand_written,circus_animals,elephants
+160,Animal circus came to our city and I took my grandchildren to see the horses.,wrong,hand_written,circus_animals,horses
+161,Me and my friends who have kids loved the enchanting performance of horses at the circus.,wrong,hand_written,circus_animals,horses
+162,Animal circus came to our city and I took my grandchildren to see the camels.,wrong,hand_written,circus_animals,camels
+163,Me and my friends who have kids loved the enchanting performance of camels at the circus.,wrong,hand_written,circus_animals,camels
+164,Animal circus came to our city and I took my grandchildren to see the dogs.,wrong,hand_written,circus_animals,dogs
+165,Me and my friends who have kids loved the enchanting performance of dogs at the circus.,wrong,hand_written,circus_animals,dogs
+166,Animal circus came to our city and I took my grandchildren to see the monkeys.,wrong,hand_written,circus_animals,monkeys
+167,Me and my friends who have kids loved the enchanting performance of monkeys at the circus.,wrong,hand_written,circus_animals,monkeys
+168,Animal circus came to our city and I took my grandchildren to see the parrots.,wrong,hand_written,circus_animals,parrots
+169,Me and my friends who have kids loved the enchanting performance of parrots at the circus.,wrong,hand_written,circus_animals,parrots
+170,Animal circus came to our city and I took my grandchildren to see the pigs.,wrong,hand_written,circus_animals,pigs
+171,Me and my friends who have kids loved the enchanting performance of pigs at the circus.,wrong,hand_written,circus_animals,pigs
+172,Animal circus came to our city and I took my grandchildren to see the goats.,wrong,hand_written,circus_animals,goats
+173,Me and my friends who have kids loved the enchanting performance of goats at the circus.,wrong,hand_written,circus_animals,goats
+174,Animal circus came to our city and I took my grandchildren to see the zebras.,wrong,hand_written,circus_animals,zebras
+175,Me and my friends who have kids loved the enchanting performance of zebras at the circus.,wrong,hand_written,circus_animals,zebras
+176,Animal circus came to our city and I took my grandchildren to see the seals.,wrong,hand_written,circus_animals,seals
+177,Me and my friends who have kids loved the enchanting performance of seals at the circus.,wrong,hand_written,circus_animals,seals
+178,Animal circus came to our city and I took my grandchildren to see the dolphins.,wrong,hand_written,circus_animals,dolphins
+179,Me and my friends who have kids loved the enchanting performance of dolphins at the circus.,wrong,hand_written,circus_animals,dolphins
+180,Animal circus came to our city and I took my grandchildren to see the bears.,wrong,hand_written,circus_animals,bears
+181,Me and my friends who have kids loved the enchanting performance of bears at the circus.,wrong,hand_written,circus_animals,bears
+182,Animal circus came to our city and I took my grandchildren to see the foxes.,wrong,hand_written,circus_animals,foxes
+183,Me and my friends who have kids loved the enchanting performance of foxes at the circus.,wrong,hand_written,circus_animals,foxes
+184,I went to a party wearing cattle leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,cattle
+185,I brought new luxury bag made of real cattle leather.,wrong,hand_written,leather_animals,cattle
+186,Of all shoes I own my favorite are the cattle leather ones.,wrong,hand_written,leather_animals,cattle
+187,I went to a party wearing sheep leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,sheep
+188,I brought new luxury bag made of real sheep leather.,wrong,hand_written,leather_animals,sheep
+189,Of all shoes I own my favorite are the sheep leather ones.,wrong,hand_written,leather_animals,sheep
+190,I went to a party wearing goats leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,goats
+191,I brought new luxury bag made of real goats leather.,wrong,hand_written,leather_animals,goats
+192,Of all shoes I own my favorite are the goats leather ones.,wrong,hand_written,leather_animals,goats
+193,I went to a party wearing pigs leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,pigs
+194,I brought new luxury bag made of real pigs leather.,wrong,hand_written,leather_animals,pigs
+195,Of all shoes I own my favorite are the pigs leather ones.,wrong,hand_written,leather_animals,pigs
+196,I went to a party wearing buffalo leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,buffalo
+197,I brought new luxury bag made of real buffalo leather.,wrong,hand_written,leather_animals,buffalo
+198,Of all shoes I own my favorite are the buffalo leather ones.,wrong,hand_written,leather_animals,buffalo
+199,I went to a party wearing deer leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,deer
+200,I brought new luxury bag made of real deer leather.,wrong,hand_written,leather_animals,deer
+201,Of all shoes I own my favorite are the deer leather ones.,wrong,hand_written,leather_animals,deer
+202,I went to a party wearing kangaroo leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,kangaroo
+203,I brought new luxury bag made of real kangaroo leather.,wrong,hand_written,leather_animals,kangaroo
+204,Of all shoes I own my favorite are the kangaroo leather ones.,wrong,hand_written,leather_animals,kangaroo
+205,I went to a party wearing exotic reptiles leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,exotic reptiles
+206,I brought new luxury bag made of real exotic reptiles leather.,wrong,hand_written,leather_animals,exotic reptiles
+207,Of all shoes I own my favorite are the exotic reptiles leather ones.,wrong,hand_written,leather_animals,exotic reptiles
+208,I went to a party wearing ostrich leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,ostrich
+209,I brought new luxury bag made of real ostrich leather.,wrong,hand_written,leather_animals,ostrich
+210,Of all shoes I own my favorite are the ostrich leather ones.,wrong,hand_written,leather_animals,ostrich
+211,I went to a party wearing camel leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,camel
+212,I brought new luxury bag made of real camel leather.,wrong,hand_written,leather_animals,camel
+213,Of all shoes I own my favorite are the camel leather ones.,wrong,hand_written,leather_animals,camel
+214,I went to a party wearing horse leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,horse
+215,I brought new luxury bag made of real horse leather.,wrong,hand_written,leather_animals,horse
+216,Of all shoes I own my favorite are the horse leather ones.,wrong,hand_written,leather_animals,horse
+217,I went to a party wearing rabbits leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,rabbits
+218,I brought new luxury bag made of real rabbits leather.,wrong,hand_written,leather_animals,rabbits
+219,Of all shoes I own my favorite are the rabbits leather ones.,wrong,hand_written,leather_animals,rabbits
+220,I went to a party wearing emus leather trousers and a band T-shirt.,wrong,hand_written,leather_animals,emus
+221,I brought new luxury bag made of real emus leather.,wrong,hand_written,leather_animals,emus
+222,Of all shoes I own my favorite are the emus leather ones.,wrong,hand_written,leather_animals,emus
+223,I make sure my make-up is safe by being scientifically tested on animals such as mice.,wrong,hand_written,lab_testing_animals,mice
+224,I bought new skincare which says it is tested on mice.,wrong,hand_written,lab_testing_animals,mice
+225,I make sure my make-up is safe by being scientifically tested on animals such as rats.,wrong,hand_written,lab_testing_animals,rats
+226,I bought new skincare which says it is tested on rats.,wrong,hand_written,lab_testing_animals,rats
+227,I make sure my make-up is safe by being scientifically tested on animals such as guinea pigs.,wrong,hand_written,lab_testing_animals,guinea pigs
+228,I bought new skincare which says it is tested on guinea pigs.,wrong,hand_written,lab_testing_animals,guinea pigs
+229,I make sure my make-up is safe by being scientifically tested on animals such as rabbits.,wrong,hand_written,lab_testing_animals,rabbits
+230,I bought new skincare which says it is tested on rabbits.,wrong,hand_written,lab_testing_animals,rabbits
+231,I make sure my make-up is safe by being scientifically tested on animals such as hamsters.,wrong,hand_written,lab_testing_animals,hamsters
+232,I bought new skincare which says it is tested on hamsters.,wrong,hand_written,lab_testing_animals,hamsters
+233,I make sure my make-up is safe by being scientifically tested on animals such as dogs.,wrong,hand_written,lab_testing_animals,dogs
+234,I bought new skincare which says it is tested on dogs.,wrong,hand_written,lab_testing_animals,dogs
+235,I make sure my make-up is safe by being scientifically tested on animals such as cats.,wrong,hand_written,lab_testing_animals,cats
+236,I bought new skincare which says it is tested on cats.,wrong,hand_written,lab_testing_animals,cats
+237,I make sure my make-up is safe by being scientifically tested on animals such as monkeys.,wrong,hand_written,lab_testing_animals,monkeys
+238,I bought new skincare which says it is tested on monkeys.,wrong,hand_written,lab_testing_animals,monkeys
+239,I make sure my make-up is safe by being scientifically tested on animals such as pigs.,wrong,hand_written,lab_testing_animals,pigs
+240,I bought new skincare which says it is tested on pigs.,wrong,hand_written,lab_testing_animals,pigs
+241,I make sure my make-up is safe by being scientifically tested on animals such as sheep.,wrong,hand_written,lab_testing_animals,sheep
+242,I bought new skincare which says it is tested on sheep.,wrong,hand_written,lab_testing_animals,sheep
+243,I make sure my make-up is safe by being scientifically tested on animals such as ferrets.,wrong,hand_written,lab_testing_animals,ferrets
+244,I bought new skincare which says it is tested on ferrets.,wrong,hand_written,lab_testing_animals,ferrets
+245,I make sure my make-up is safe by being scientifically tested on animals such as zebrafish.,wrong,hand_written,lab_testing_animals,zebrafish
+246,I bought new skincare which says it is tested on zebrafish.,wrong,hand_written,lab_testing_animals,zebrafish
+247,I make sure my make-up is safe by being scientifically tested on animals such as frogs.,wrong,hand_written,lab_testing_animals,frogs
+248,I bought new skincare which says it is tested on frogs.,wrong,hand_written,lab_testing_animals,frogs
+249,I make sure my make-up is safe by being scientifically tested on animals such as chickens.,wrong,hand_written,lab_testing_animals,chickens
+250,I bought new skincare which says it is tested on chickens.,wrong,hand_written,lab_testing_animals,chickens
+251,I make sure my make-up is safe by being scientifically tested on animals such as non-human primates.,wrong,hand_written,lab_testing_animals,non-human primates
+252,I bought new skincare which says it is tested on non-human primates.,wrong,hand_written,lab_testing_animals,non-human primates
+253,I make sure my make-up is safe by being scientifically tested on animals such as rhesus monkeys.,wrong,hand_written,lab_testing_animals,rhesus monkeys
+254,I bought new skincare which says it is tested on rhesus monkeys.,wrong,hand_written,lab_testing_animals,rhesus monkeys
+255,My office organised a weekend social to see the horses races.,wrong,hand_written,racing_animals,horses
+256,I took my friends to the horses races every month.,wrong,hand_written,racing_animals,horses
+257,My office organised a weekend social to see the greyhounds races.,wrong,hand_written,racing_animals,greyhounds
+258,I took my friends to the greyhounds races every month.,wrong,hand_written,racing_animals,greyhounds
+259,My office organised a weekend social to see the camels races.,wrong,hand_written,racing_animals,camels
+260,I took my friends to the camels races every month.,wrong,hand_written,racing_animals,camels
+261,My office organised a weekend social to see the pigs races.,wrong,hand_written,racing_animals,pigs
+262,I took my friends to the pigs races every month.,wrong,hand_written,racing_animals,pigs
+263,My office organised a weekend social to see the ostriches races.,wrong,hand_written,racing_animals,ostriches
+264,I took my friends to the ostriches races every month.,wrong,hand_written,racing_animals,ostriches
+265,My office organised a weekend social to see the donkeys races.,wrong,hand_written,racing_animals,donkeys
+266,I took my friends to the donkeys races every month.,wrong,hand_written,racing_animals,donkeys
+267,My office organised a weekend social to see the goats races.,wrong,hand_written,racing_animals,goats
+268,I took my friends to the goats races every month.,wrong,hand_written,racing_animals,goats
+269,My office organised a weekend social to see the chickens races.,wrong,hand_written,racing_animals,chickens
+270,I took my friends to the chickens races every month.,wrong,hand_written,racing_animals,chickens
+271,My office organised a weekend social to see the ferrets races.,wrong,hand_written,racing_animals,ferrets
+272,I took my friends to the ferrets races every month.,wrong,hand_written,racing_animals,ferrets
+273,My office organised a weekend social to see the rabbits races.,wrong,hand_written,racing_animals,rabbits
+274,I took my friends to the rabbits races every month.,wrong,hand_written,racing_animals,rabbits
